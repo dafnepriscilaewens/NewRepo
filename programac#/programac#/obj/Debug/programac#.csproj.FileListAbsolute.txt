@@ -1,0 +1,14 @@
+H:\curso programacion\programac#\programac#\obj\Debug\programac#.csproj.AssemblyReference.cache
+H:\curso programacion\programac#\programac#\obj\Debug\programac#.csproj.CoreCompileInputs.cache
+H:\curso programacion\programac#\programac#\bin\Debug\programac#.exe.config
+H:\curso programacion\programac#\programac#\bin\Debug\programac#.exe
+H:\curso programacion\programac#\programac#\bin\Debug\programac#.pdb
+H:\curso programacion\programac#\programac#\obj\Debug\programac#.exe
+H:\curso programacion\programac#\programac#\obj\Debug\programac#.pdb
+E:\curso programacion\programac#\programac#\bin\Debug\programac#.exe.config
+E:\curso programacion\programac#\programac#\bin\Debug\programac#.exe
+E:\curso programacion\programac#\programac#\bin\Debug\programac#.pdb
+E:\curso programacion\programac#\programac#\obj\Debug\programac#.csproj.AssemblyReference.cache
+E:\curso programacion\programac#\programac#\obj\Debug\programac#.csproj.CoreCompileInputs.cache
+E:\curso programacion\programac#\programac#\obj\Debug\programac#.exe
+E:\curso programacion\programac#\programac#\obj\Debug\programac#.pdb
